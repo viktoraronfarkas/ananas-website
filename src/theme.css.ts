@@ -27,14 +27,14 @@ Object.assign(
 )
 
 const fontSizes = {
-  0: "12px",
-  1: "14px",
-  2: "16px",
-  3: "18px",
-  4: "24px",
-  5: "32px",
-  6: "48px",
-  7: "64px",
+  0: "0.75rem",
+  1: "0.875rem",
+  2: "1rem",
+  3: "1.125rem",
+  4: "1.5rem",
+  5: "2rem",
+  6: "3rem",
+  7: "4rem",
 }
 
 const fontWeights = {
@@ -46,8 +46,8 @@ const fontWeights = {
 }
 
 const fonts = {
-  text: '"DM Sans", sans-serif',
-  heading: '"DM Sans", sans-serif',
+  text: '"Futura PT", sans-serif',
+  heading: '"Futura PT", sans-serif',
   mono: "DM Mono, Menlo, monospace",
 }
 
